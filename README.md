@@ -1,4 +1,4 @@
-#  CMPE277 Final Project Submission 
+#  CMPE277 Homework2 Cloud Connected App
 #  NewsBuddy App
   Student Name: Priti Sharma
   
@@ -16,9 +16,7 @@
     Binding.
 4. This app lists the Top news headlines in a recycler view using Retrofit and Gson.
 5. I have used Glide library for image network processing.
-6. First user has Register and then login into the App
-7. User registration and authentication is implemented through Firebase
-8. Top Headlines: Home page list the Top news headlines, sorted with the latest news on the 
+6. Top Headlines: Home page list the Top news headlines, sorted with the latest news on the 
     top. News list is updated live and each article has its title, source, date and time updated. 
 7. Search news articles: Home page of the app has search bar on the top, to search for news   
     based on any keywords.  For Example: “sports”    
@@ -34,7 +32,6 @@
 12. This app has a news list view with search bar and news detail view.
 13. I have used Material design app themes to style UI widgets.
 
-# Sample screenshots:
 
 
 
