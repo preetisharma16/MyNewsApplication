@@ -1,5 +1,5 @@
 #  CMPE277 Final Project Submission 
-#  NewsBuddy App#
+#  NewsBuddy App
   Student Name: Priti Sharma
   
   University Name: San Jose State University
